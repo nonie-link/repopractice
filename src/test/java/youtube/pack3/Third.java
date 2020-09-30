@@ -16,6 +16,7 @@ public class Third {
 		Simple first = Simple.Green;
 		
 		System.out.println(first);
+		System.out.println(Simple.Red);
 	}
 
 }
